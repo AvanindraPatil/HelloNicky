@@ -1,18 +1,17 @@
 # Hello Nicky
 
-A mod for **Hello Neighbor** (Steam) with the roles swapped: **you are the Neighbor**, and Nicky is the one sneaking into
-your house. He works through each act's puzzles on his own, on his way to your basement. Catch him first.
+It is time to switch roles and put on the Neighbor's shoes. In Hello Nicky, you play as the Neighbor. That's pretty much it.
 
-<!-- video / screenshots here -->
+<img width="2559" height="1439" alt="Screenshot 2026-11-11 215430" src="https://github.com/user-attachments/assets/7d740092-8c11-4610-a53b-9c820fd3f75a" />
 
 ## What's in it
-- **Acts 1, 2 and 3**, each with Nicky's own way through the house, his hiding spots and his escapes.
-- **You are the Neighbor**: first person with his arms and run, or third person (F4).
-- **Nicky fights back**: he hides in wardrobes and under beds, throws things through windows to get out, and knocks your cameras down with tomatoes.
-- **Your tools**: tomatoes, glue, a vacuum, bear traps, and up to 10 security cameras with a monitor.
-- **Live in the house**: watch TV, nap on the sofa, sleep, take a bath, exercise.
-- **Several catches**: a slap, a hush, an ear pinch, a tackle, the waist grab.
-- **The story from the other side**: the game's cutscenes from the Neighbor's side, Aaron in Act 1's films, a new Act 3 ending and end credits.
+- Acts 1, 2 and 3
+- First person as the Neighbor, or third person (F4). I recommend playing in first person.
+- Nicky hides in wardrobes and under beds, throws things through windows to escape and knocks your cameras down
+- Your tools: tomatoes, glue, a vacuum, bear traps and up to 10 security cameras with a monitor
+- You can do the Neighbor's usual activities
+- There are multiple catch animations
+- Everything happens from the Neighbor's perspective, even the cutscenes
 
 ## Install
 1. Download `HelloNicky-1.0.0.zip` from [Releases](../../releases) and unzip it anywhere (keep the folder until you uninstall).
@@ -27,13 +26,12 @@ installer put it there.
 | Key | What it does |
 |---|---|
 | Q / R / V / B | tomato / glue / vacuum (hold, or tap to toggle) / bear trap (3 at most) |
-| F | check the wardrobe or bed you face (Nicky hiding there is caught) |
+| F | check the wardrobe or bed (Nicky hiding there is caught) |
 | X | put a security camera on the wall you look at (10 at most) |
 | Z | camera monitor on / off; Left / Right arrow or X = next camera |
 | G / H | use nearby furniture (TV, sofa, bed, bath, armchair, sink); G again = get up |
 | T | exercise |
 | F4 | third person on / off |
-| F5 | next running-arms look |
 | F3 | on-screen text (what Nicky is up to) on / off |
 | F9 | restart the round |
 | Shift+F9 | jump to the Act 3 basement finale |
@@ -50,6 +48,6 @@ installer put it there.
 - Aaron's 3D model: ["Aaron Peterson Search Rescue"](https://sketchfab.com/3d-models/aaron-peterson-search-rescue-8ffdde502c044df2801a77a65b359747) by **werikas** (Sketchfab Standard licence), re-rigged and animated for this mod; shipped only inside the built pak.
 - Everything else you see and hear is Hello Neighbor's own content, loaded from your installed game.
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) (MIT).
-- Built with the help of an AI coding agent (Claude Code, Anthropic).
+- Built with the help of an AI coding agent.
 
 The mod's code is under the MIT licence. Unofficial fan mod, not affiliated with or endorsed by tinyBuild or Dynamic Pixels.
