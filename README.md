@@ -45,7 +45,7 @@ installer put it there.
 
 ## Credits
 - Made by **Gaming with ACK**.
-- Aaron's 3D model: ["Aaron Peterson Search Rescue"](https://sketchfab.com/3d-models/aaron-peterson-search-rescue-8ffdde502c044df2801a77a65b359747) by **werikas** (Sketchfab Standard licence), re-rigged and animated for this mod; shipped only inside the built pak.
+- Aaron's 3D model: ["Aaron Peterson Search Rescue"](https://sketchfab.com/3d-models/aaron-peterson-search-rescue-8ffdde502c044df2801a77a65b359747) by **[Crazy Hello Neighbor Fan]** (Sketchfab Free Standard licence), re-rigged and animated for this mod; shipped only inside the built pak.
 - Everything else you see and hear is Hello Neighbor's own content, loaded from your installed game.
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) (MIT).
 - Built with the help of an AI coding agent.
